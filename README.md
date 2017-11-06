@@ -11,10 +11,10 @@ Android app for improving the interaction between students and teachers.
 
 ## Screenshots
 
-![login](https://i.imgur.com/RoVOLkO.jpg)
+<img src="https://i.imgur.com/RoVOLkO.jpg" width="300px">
 
-![schedule](https://i.imgur.com/OTSX8nD.jpg)
+<img src="https://i.imgur.com/OTSX8nD.jpg" width="300px">
 
-![subjects](https://i.imgur.com/awU1guX.jpg)
+<img src="https://i.imgur.com/awU1guX.jpg" width="300px">
 
-![subject](https://i.imgur.com/usX0Ay7.jpg)
+<img src="https://i.imgur.com/usX0Ay7.jpg" width="300px>
