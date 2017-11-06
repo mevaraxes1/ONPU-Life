@@ -17,4 +17,4 @@ Android app for improving the interaction between students and teachers.
 
 <img src="https://i.imgur.com/awU1guX.jpg" width="300px">
 
-<img src="https://i.imgur.com/usX0Ay7.jpg" width="300px>
+<img src="https://i.imgur.com/usX0Ay7.jpg" width="300px">
